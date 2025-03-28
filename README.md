@@ -25,7 +25,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats</h2>
 
 <!-- Most used languages -->
 <p align="center">
